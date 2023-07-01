@@ -1,4 +1,18 @@
 Please refer to requipments.txt to download the package.
 You should download four important wheels from https://download.pytorch.org/whl/torch_stable.html
 
+You need to create a Directory called 'log_addirichlet' in root and any amounts of sub-directory named with number of dirchlet and any amounts of sub-directory 
+named with different datasets file strature shows below:
+--main.py
+--log_adddirchlet
+  |-0.1
+    |-dataset name1
+    |-dataset name2
+  |-1
+    |-dataset name1
+    |-dataset name2
+  |-20
+    |-dataset name1
+    |-dataset name2
+
 You can run this project in main.py.
