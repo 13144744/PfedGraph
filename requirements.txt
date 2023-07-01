@@ -1,0 +1,15 @@
+## basic ##
+python==3.7
+cudatoolkit==11.3.1
+numpy==1.21.5
+torch==1.11.0
+torchvision==0.12.0
+networkx==2.2
+sklearn==1.0.2
+
+## Impotrant ##
+torch-cluster==1.6.0
+torch-scatter==2.0.9
+torch-sparse==0.6.13
+torch-spline-conv==1.2.1
+torch-geometric==2.0.4
